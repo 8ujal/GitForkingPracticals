@@ -3,8 +3,8 @@ void main() {
 int a[5][5]={0,7,3,999,999,7,0,1,2,6,3,1,0,2,999,999,2,2,0,4,999,6,999,4,0};
 int visited[5]={-1,-1,-1,-1,-1},cost[5], b[5][5];
 int i,j,c=0,k,src=0,temp,flag=0,m,p,srctemp;
-
-cost[src]=0;
+uyuyititi heelo bro
+cost[src]=0uy
 for(p=0;p<5;p++){
 for(k=0;k<5;k++){
 for(m=0;m<5;m++){
