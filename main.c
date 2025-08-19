@@ -15,7 +15,7 @@ break; HYYYYYYYYYYY
 }
 }
 if(flag==1){
-flag=0;
+flag=0; HY
 continue;}
 if(c>0){
     if(b[c-1][k]>a[src][k]+cost[src]){
