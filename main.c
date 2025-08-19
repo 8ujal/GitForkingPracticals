@@ -6,7 +6,7 @@ int i,j,c=0,k,src=0,temp,flag=0,m,p,srctemp;
 
 cost[src]=0;
 for(p=0;p<5;p++){
-for(k=0;k<5;k++){
+for(k=0;k<5;k++){ hy bro
 for(m=0;m<5;m++){
 if(k==visited [m]){
 b[c][k]=999;
