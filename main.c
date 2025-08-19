@@ -11,7 +11,7 @@ for(m=0;m<5;m++){
 if(k==visited [m]){
 b[c][k]=999;
 flag=1;
-break;
+break; HYYYYYYYYYYY
 }
 }
 if(flag==1){
